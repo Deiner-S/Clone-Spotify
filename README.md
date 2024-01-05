@@ -1,2 +1,3 @@
 # Clone Spotify
- Primeiro projeto de estudo
+ Primeiro projeto de estudo 
+ Utilizando Tailwind css
